@@ -1,8 +1,3 @@
-# Test Render
-
-If you can read this, the README is now working.
-
-
 # Consumer Financial Complaint Analysis (Power BI)
 
 This project analyzes consumer financial complaint data to uncover key insights on company performance, complaint trends, and regulatory implications.  
@@ -109,3 +104,4 @@ DATA ANALYST||DATA SCIENTIST
 [LinkedIn](https://www.linkedin.com/in/abraham-pelumi-74a72494) | [GitHub](https://github.com/abplincoln)
 
 Update README content
+
