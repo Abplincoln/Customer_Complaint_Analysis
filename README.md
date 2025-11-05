@@ -1,7 +1,7 @@
 # Consumer Financial Complaint Analysis (Power BI)
 
 This project analyzes consumer financial complaint data to uncover key insights on company performance, complaint trends, and regulatory implications.  
-It was developed as part of the **DataDNA Challenge** — my first time participating, and a major learning experience in building an end-to-end analytical dashboard using Power BI.
+It was developed as part of the **DataDNA Challenge** which is my first time participating, and a major learning experience in building an end-to-end analytical dashboard using Power BI.
 
 ---
 
@@ -104,4 +104,5 @@ DATA ANALYST||DATA SCIENTIST
 [LinkedIn](https://www.linkedin.com/in/abraham-pelumi-74a72494) | [GitHub](https://github.com/abplincoln)
 
 Update README content
+
 
